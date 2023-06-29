@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://charliecb.github.io/charliecb/sitemap.xml
