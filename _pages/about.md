@@ -19,14 +19,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a first-year Ph.D. student in MIT EECS, specializing in machine learning. I'm interested in how, by beginning from concrete problems, we can develop novel mathematical methodology. I'm particularly interested in novel applications of traditionally pure fields of mathematics to physics and computer science. In my free time, I enjoy playing basketball and guitar, and sailing.
+I'm a first-year Ph.D. student in MIT EECS, specializing in machine learning. I'm interested in how, by beginning with concrete problems, we can develop novel mathematical methodology. I'm particularly interested in novel applications of traditionally pure fields of mathematics to physics and computer science. In my free time, I enjoy playing basketball and guitar, and sailing.
+
+During my undergraduate work at Princeton, I studied pure mathematics and was fortunate to work with Ching-Yao Lai. Since my masters degree in applied mathematics and theoretical physics ("Part III") at the University of Cambridge, I work with Sofia Villar on alternative schemes to test experimental treatments in the medical community.
 
 # Active research projects
 
 ## Medical trial design
 Suppose you're trying to find the best over-the-counter medicine that works for you for a mildly harmful condition such as seasonal allergies. In the near future, we could imagine that you download an App which is designed to figure out the best medication for you by recommending (possibly different) medications every morning, and taking feedback from you on how well it worked every night. One might think that this sort of futuristic medical care could be better that what is currently standard practice in the medical community: randomized controlled trials. 
 
-In this work, we show that no such AI-powered App can significantly outperform the randomized controlled trial scheme currently in place, at least if the correct number of patients is chosen to participate in each study. We find this number to be $O(\log(N))$, where $N$ is the total number of patients affected by the condition.  
+In this theoretical work, we show that no such AI-powered App can significantly outperform the randomized controlled trial scheme currently in place, at least if the correct number of patients is chosen to participate in each study. We find this number to be $O(\log(N))$, where $N$ is the total number of patients affected by the condition.  
 
 ## Ancient language processing
 Ancient texts have been passed down by scribes over thousands of years. Scribes occasionally make mistakes, some of which lie undiscovered to this day. As unchecked errors have the potential to change the meaning of a text, finding and correcting scribal errors is a central aim in philology.
