@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a first-year Ph.D. student in MIT EECS, specializing in machine learning. I'm interested in how, by beginning with concrete problems, we can develop mathematical methodology which both solves the problem at hand and is novel from a theoretical perspective. I'm particularly interested in novel applications of traditionally pure fields of mathematics to physics and computer science. In my free time, I enjoy playing basketball and guitar, and sailing.
+I'm a first-year Ph.D. student in MIT EECS, specializing in machine learning. I'm interested in how, by beginning with concrete problems, we can develop novel mathematical methodology which solves them. I'm particularly interested in novel applications of traditionally pure fields of mathematics to physics and computer science. In my free time, I enjoy playing basketball and guitar, and sailing.
 
 During my undergraduate work at Princeton, I studied pure mathematics and was fortunate to work with Ching-Yao Lai. Since my masters degree in applied mathematics and theoretical physics ("Part III") at the University of Cambridge, I work with Sofia Villar on alternative schemes to test experimental treatments in the medical community.
 
