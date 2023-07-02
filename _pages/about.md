@@ -20,8 +20,11 @@ I'm a first-year Ph.D. student in MIT EECS, specializing in machine learning. I'
 
 During my undergraduate work at Princeton, I studied pure mathematics and was fortunate to work with Ching-Yao Lai. Since my masters degree in applied mathematics and theoretical physics ("Part III") at the University of Cambridge, I work with Sofia Villar on alternative schemes to test experimental treatments in the medical community.
 
+
+  
 # Active research projects
 
+  
 ## Medical trial design
 Suppose you're trying to find the best over-the-counter medicine that works for you for a mildly harmful condition such as seasonal allergies. In the near future, we could imagine that you download an App which is designed to figure out the best medication for you by recommending (possibly different) medications every morning, and taking feedback from you on how well it worked every night. One might think that this sort of futuristic medical care could be better that what is currently standard practice in the medical community: randomized controlled trials. 
 
