@@ -26,9 +26,9 @@ During my undergraduate work at Princeton, I studied pure mathematics and was fo
 
   
 ## Medical trial design
-Suppose you're trying to find the best over-the-counter medicine that works for you for a mildly harmful condition such as seasonal allergies. In the near future, we could imagine that you download an App which is designed to figure out the best medication for you by recommending (possibly different) medications every morning, and taking feedback from you on how well it worked every night. One might think that this sort of futuristic medical care could be better that what is currently standard practice in the medical community: randomized controlled trials. 
+Suppose you're trying to find the best over-the-counter medicine that works for you for a mildly harmful condition such as seasonal allergies. In the near future, we could imagine that you download an app which is designed to figure out the best medication for you by recommending (possibly different) medications every morning, and taking feedback from you on how well it worked every night. One might think that this sort of futuristic medical treatment could be better that what is currently standard practice in the medical community: randomized controlled trials. 
 
-In this theoretical work, we show that no such AI-powered App can significantly outperform the randomized controlled trial scheme currently in place, at least if the correct number of patients is chosen to participate in each study. We find this number to be $$O(\log(N))$$, where $$N$$ is the total number of patients affected by the condition.
+In this theoretical work, we show that no such AI-powered app can significantly outperform the randomized controlled trial scheme currently in place, at least if the correct number of patients is chosen to participate in each study. We find this number to be $$O(\log(N))$$, where $$N$$ is the total number of patients affected by the condition.
 
 While this work began with a concrete problem, we have harnessed it to prove a novel [refinement of Pinsker's inequality](#).
 
