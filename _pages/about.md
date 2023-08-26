@@ -30,7 +30,7 @@ Suppose you're trying to find the best over-the-counter medicine that works for 
 
 In this theoretical work, we show that no such AI-powered app can significantly outperform the randomized controlled trial scheme currently in place, at least if the correct number of patients is chosen to participate in each study. We find this number to be $$O(\log(N))$$, where $$N$$ is the total number of patients affected by the condition.
 
-While this work began with a concrete problem, we have harnessed it to prove a novel [refinement of Pinsker's inequality](#).
+While this work began with a concrete problem, we have harnessed it to prove a novel [refinement of Pinsker's inequality](https://charliecb.github.io/assets/pdf/Novel_refinement_of_Pinsker_s_inequality_via_medical_trial_design.pdf).
 
 ## Antarctic ice-sheet dynamics
 Melting of Antarctic ice-sheets has been shown to lead to global sea-level rise and impacts the lives of millions of people worldwide. In this work, we map the hardness of ice-sheets across Antarctica using physics-informed neural networks.
