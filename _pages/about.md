@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.csail.mit.edu'>MIT CSAIL</a>
+subtitle: <a href='https://www.eecs.mit.edu'>MIT EECS</a>
 
 profile:
   align: right
