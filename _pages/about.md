@@ -19,9 +19,13 @@ social: false  # includes social icons at the bottom of the page
 I'm a first-year Ph.D. student at MIT, and I'm very fortunate to be advised by [Stephen Bates](https://stephenbates19.github.io). I'm interested in **reliable AI for science** through **uncertainty quantification**. More broadly, I'm generally interested in applications of probability theory and mathematics to machine learning. In my free time, I enjoy playing basketball and guitar, and sailing.
 
 During my undergraduate work at Princeton, I studied pure mathematics and was very lucky to work with [Ching-Yao Lai](https://icyphysics.stanford.edu). Since my masters degree in mathematics ("Part III") at the University of Cambridge, I've worked with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/staff/sofia-villar-2/) on alternative schemes to test experimental treatments in the medical community. Previously, I also interned at Meta Reality Labs.
+<pre>
+
+
 
 
   
+</pre>
 # Active research projects
 
 ## Antarctic ice-sheet dynamics
