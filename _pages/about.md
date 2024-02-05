@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eecs.mit.edu'>MIT EECS</a>
+subtitle:
 
 profile:
   align: right
@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a first-year Ph.D. student in MIT EECS. I'm interested in how, by beginning with concrete problems, we can develop novel mathematical methodology which solves them. I'm particularly interested in novel applications of traditionally pure fields of mathematics to physics and computer science. In my free time, I enjoy playing basketball and guitar, and sailing.
+I'm a first-year Ph.D. student at MIT, and I'm very fortunate to be advised by [Stephen Bates](https://stephenbates19.github.io). I'm interested in **reliable AI for science** through **uncertainty quantification**. More broadly, I'm generally interested in applications of probability theory and mathematics to machine learning. In my free time, I enjoy playing basketball and guitar, and sailing.
 
-During my undergraduate work at Princeton, I studied pure mathematics and was fortunate to work with Ching-Yao Lai. Since my masters degree in applied mathematics and theoretical physics ("Part III") at the University of Cambridge, I work with Sofia Villar on alternative schemes to test experimental treatments in the medical community.
+During my undergraduate work at Princeton, I studied pure mathematics and was very lucky to work with Ching-Yao Lai. Since my masters degree in mathematics ("Part III") at the University of Cambridge, I've worked with Sofia Villar on alternative schemes to test experimental treatments in the medical community. Previously, I also interned at Meta Reality Labs.
 
 
   
