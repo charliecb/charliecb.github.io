@@ -28,7 +28,7 @@ During my undergraduate work at Princeton, I studied pure mathematics and was ve
 </pre>
 # Active research projects
 
-## Antarctic ice-sheet dynamics
+## Inverse problems in Antarctic ice-sheet dynamics
 Melting of Antarctic ice-sheets has been shown to lead to global sea-level rise and impacts the lives of millions of people worldwide. In this work, we map the hardness of ice-sheets across Antarctica using physics-informed neural networks.
 
 Motivated by the need for accurate modeling, we study and rectify a particular behavior of physics-informed neural networks we find leads to inaccurate predictions, known as *cheating*. Harnessing functional analysis, we provide methods to circumvent cheating, and find exact theoretical bounds on situations in which cheating can occur.
