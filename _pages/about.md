@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: Mathematics · MIT
+show_contact: true
 
 profile:
   align: right
@@ -17,8 +18,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I’m a PhD student in mathematics at MIT, advised by [Gigliola Staffilani](https://math.mit.edu/~gigliola/), and a student researcher at Google DeepMind working on AI for mathematics. My research is supported by an [NDSEG fellowship](https://ndseg.org).
-
-<p class="contact-line">Email: {{ site.contact_email_obfuscated }}</p>
 
 My interests lie at the intersection of partial differential equations, probability, and machine learning. I study how learned models can contribute to scientific and mathematical reasoning with rigorous guarantees—from making valid statistical inferences using model predictions to establishing the existence of solutions to PDEs.
 

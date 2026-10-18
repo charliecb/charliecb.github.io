@@ -66,7 +66,14 @@ body { font-family: Arial, sans-serif; }
   #navbar .nav-link { padding: .75rem .6rem; }
 }
 
-.contact-line { font-size: .92rem; color: var(--global-text-color-light); }
-.publication-section-title { font-size: 1.4rem; font-weight: 500; margin-bottom: 0; }
-.publications section + section { margin-top: 3.5rem; }
+.post-header .desc { margin-bottom: 0; }
+.post-header .contact-line { display: flex; flex-wrap: wrap; align-items: baseline; gap: .35rem .65rem; margin: .8rem 0 0; line-height: 1.5; color: var(--global-text-color-light); }
+.contact-label { font-size: .68rem; text-transform: uppercase; letter-spacing: .09em; }
+.contact-address { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: .85rem; }
+.publication-section-title { font-size: 1.55rem; font-weight: 500; margin-bottom: 0; }
+.publications section + section { margin-top: 3.5rem; padding-top: 2.5rem; border-top: 1px solid var(--global-divider-color); }
 .publications section > h3.bibliography:first-of-type { margin-top: 1rem; }
+
+.publication-index { display: flex; flex-wrap: wrap; gap: .75rem 1.75rem; padding-bottom: 1.25rem; margin-bottom: 2.5rem; border-bottom: 1px solid var(--global-divider-color); font-size: .95rem; }
+.publication-index a { text-underline-offset: .25em; }
+.publication-section-title { scroll-margin-top: 90px; }

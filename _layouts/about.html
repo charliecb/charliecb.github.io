@@ -9,6 +9,9 @@ layout: default
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
+          {% if page.show_contact and site.contact_email_obfuscated %}
+          <p class="contact-line"><span class="contact-label">Contact</span><span class="contact-address">{{ site.contact_email_obfuscated }}</span></p>
+          {% endif %}
         </header>
 
         <article>
