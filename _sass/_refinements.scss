@@ -68,7 +68,6 @@ body { font-family: Arial, sans-serif; }
 
 .post-header .desc { margin-bottom: 0; }
 .post-header .contact-line { display: flex; flex-wrap: wrap; align-items: baseline; gap: .35rem .65rem; margin: .8rem 0 0; line-height: 1.5; color: var(--global-text-color-light); }
-.contact-label { font-size: .68rem; text-transform: uppercase; letter-spacing: .09em; }
 .contact-address { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: .85rem; }
 .publication-section-title { font-size: 1.55rem; font-weight: 500; margin-bottom: 0; }
 .publications section + section { margin-top: 3.5rem; padding-top: 2.5rem; border-top: 1px solid var(--global-divider-color); }
