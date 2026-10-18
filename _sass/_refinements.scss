@@ -67,8 +67,9 @@ body { font-family: Arial, sans-serif; }
 }
 
 .post-header .desc { margin-bottom: 0; }
-.post-header .contact-line { display: flex; flex-wrap: wrap; align-items: baseline; gap: .35rem .65rem; margin: .8rem 0 0; line-height: 1.5; color: var(--global-text-color-light); }
-.contact-address { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: .85rem; }
+.profile figure { margin-bottom: 0; }
+.profile .contact-line { margin: .75rem 0 0; text-align: center; line-height: 1.5; color: var(--global-text-color-light); }
+.contact-address { font-size: .8rem; overflow-wrap: anywhere; }
 .publication-section-title { font-size: 1.55rem; font-weight: 500; margin-bottom: 0; }
 .publications section + section { margin-top: 3.5rem; padding-top: 2.5rem; border-top: 1px solid var(--global-divider-color); }
 .publications section > h3.bibliography:first-of-type { margin-top: 1rem; }
