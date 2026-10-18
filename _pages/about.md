@@ -16,9 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I’m a second year Ph.D. student at MIT, in the department of pure mathematics (during first year, EECS department). I'm also currently a student researcher at Google DeepMind.
+I’m a third year Ph.D. student at MIT, in the department of pure mathematics (during first year, CSAIL). I'm extremely fortunate to be advised by [Gigliola Staffilani](https://math.mit.edu/~gigliola/). I'm also currently a student researcher at Google DeepMind, where I work on AI for math.
 
-I’m broadly interested in the intersection of **mathematical analysis, probability, and machine learning**. I’m particularly interested in **reliable AI for science** (e.g. how can we make valid statistical inference using black boxes) and **for math** (e.g. how can we prove existence of solutions to PDEs using black boxes). I'm also lucky to be supported by an [NDSEG fellowship](https://ndseg.org).
+I’m broadly interested in the intersection of **PDE, probability, and machine learning**. I’m particularly interested in **reliable AI for science** (e.g. how can we make valid statistical inference using black boxes) and **for math** (e.g. how can we prove existence of solutions to PDEs using black boxes). I'm also lucky to be supported by an [NDSEG fellowship](https://ndseg.org).
+
+I interned three times at Google DeepMind, where I have worked with the wonderful [Adam Fisch](https://people.csail.mit.edu/fisch/), [Been Kim](https://beenkim.github.io/), and [Ray Jiang](https://scholar.google.com/citations?user=BIcE5LMAAAAJ&hl=en).
 
 During 2023-2024, I was lucky to work with [Stephen Bates](https://stephenbates19.github.io) on statistical inference with black boxes. During my undergraduate work at Princeton, I studied pure mathematics and was very lucky to work with [Ching-Yao Lai](https://icyphysics.stanford.edu). During my masters degree in mathematics (“Part III”) at the University of Cambridge, I worked with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/staff/sofia-villar) on alternative schemes to test experimental treatments in the medical community. Previously, I also interned at Meta Reality Labs.
 
