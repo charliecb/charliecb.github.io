@@ -4,36 +4,6 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
-          {% if page.permalink != '/' -%}
-          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-            {%- if site.title == "blank" -%}
-              {%- if site.first_name -%}
-                <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
-              {%- endif -%}
-              {%- if site.middle_name -%}
-                {{- site.middle_name -}}&nbsp;
-              {%- endif -%}
-              {%- if site.last_name -%}
-                {{- site.last_name -}}
-              {%- endif -%}
-            {%- else -%}
-              {{- site.title -}}
-            {%- endif -%}
-          </a>
-          {%- elsif site.enable_navbar_social -%}
-          <!-- Social Icons -->
-          <div class="navbar-brand social">
-            {% include social.html %}
-          </div>
-          {% endif %}
-          <!-- Navbar Toggle -->
-          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar top-bar"></span>
-            <span class="icon-bar middle-bar"></span>
-            <span class="icon-bar bottom-bar"></span>
-          </button>
-
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
@@ -51,17 +21,6 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_nav_title %}
-              <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <!-- <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
-                  {%- if page.url contains 'blog' -%}
-                  <span class="sr-only">(current)</span>
-                  {%- endif -%}
-                </a> -->
-              </li>
-              {%- endif %}
-
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
@@ -85,7 +44,7 @@
               </li>
               {%- else %}
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-                {%- if p.title == "publications" -%}
+                {%- if p.nav -%}
                 <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
                    {%- if page.title == p.title -%}
                    <span class="sr-only">(current)</span>
@@ -100,10 +59,7 @@
 
               <!-- Toogle theme mode -->
               <li class="toggle-container">
-                <button id="light-toggle" title="Change theme">
-                  <i class="fas fa-moon"></i>
-                  <i class="fas fa-sun"></i>
-                </button>
+                <button id="light-toggle" type="button" title="Change theme" aria-label="Toggle light and dark theme">◐</button>
               </li>
               {%- endif %}
             </ul>

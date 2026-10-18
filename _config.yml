@@ -52,7 +52,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -158,9 +158,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -210,6 +208,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _posts/2020-09-28-twitter.md # unused template example requires live Twitter oEmbed
 keep_files:
   - CNAME
   - .nojekyll
@@ -367,7 +366,7 @@ enable_navbar_social:       false  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar:         false   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions

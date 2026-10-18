@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle:
+subtitle: Mathematics · MIT
 
 profile:
   align: right
@@ -16,12 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I’m a third year Ph.D. student at MIT, in the department of pure mathematics (during first year, CSAIL). I'm extremely fortunate to be advised by [Gigliola Staffilani](https://math.mit.edu/~gigliola/). I'm also currently a student researcher at Google DeepMind, where I work on AI for math.
+I’m a PhD student in mathematics at MIT, advised by [Gigliola Staffilani](https://math.mit.edu/~gigliola/), and a student researcher at Google DeepMind working on AI for mathematics. My research is supported by an [NDSEG fellowship](https://ndseg.org).
 
-I’m broadly interested in the intersection of **PDE, probability, and machine learning**. I’m particularly interested in **reliable AI for science** (e.g. how can we make valid statistical inference using black boxes) and **for math** (e.g. how can we prove existence of solutions to PDEs using black boxes). I'm also lucky to be supported by an [NDSEG fellowship](https://ndseg.org).
+My interests lie at the intersection of partial differential equations, probability, and machine learning. I study how learned models can contribute to scientific and mathematical reasoning with rigorous guarantees—from making valid statistical inferences using model predictions to establishing the existence of solutions to PDEs.
 
-I interned three times at Google DeepMind, where I was supervised by the wonderful [Adam Fisch](https://people.csail.mit.edu/fisch/), [Been Kim](https://beenkim.github.io/), and [Ray Jiang](https://scholar.google.com/citations?user=BIcE5LMAAAAJ&hl=en).
+Previously, I worked with [Stephen Bates](https://stephenbates19.github.io) on statistical inference using predictive models. I studied mathematics at Princeton, where I worked with [Ching-Yao Lai](https://icyphysics.stanford.edu) on physics-informed machine learning and with [Tristan Buckmaster](https://cims.nyu.edu/~tristanb/). I then completed Part III at the University of Cambridge, working with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/staff/sofia-villar) on clinical trial design. I have also held research internships at Google DeepMind and Meta Reality Labs.
 
-During 2023-2024, I was lucky to work with [Stephen Bates](https://stephenbates19.github.io) on statistical inference with black boxes. During my undergraduate work at Princeton, I studied pure mathematics and was very lucky to work with [Ching-Yao Lai](https://icyphysics.stanford.edu) and [Tristan Buckmaster](https://cims.nyu.edu/~tristanb/). During my masters degree in mathematics (“Part III”) at the University of Cambridge, I worked with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/staff/sofia-villar) on alternative schemes to test experimental treatments in the medical community. Previously, I also interned at Meta Reality Labs.
+I co-created [Logion](https://www.logionproject.princeton.edu/) with Creston Brooks, Johannes Haubold, and Barbara Graziosi. The project uses machine learning to identify and correct errors in ancient Greek texts.
 
-I’m also a co-creator of the [Logion](https://www.logionproject.princeton.edu/) project, with Creston Brooks, Johannes Haubold, and Barbara Graziosi, the project to identify and correct mistakes in ancient manuscripts.
+[Explore my publications →](/publications/)
