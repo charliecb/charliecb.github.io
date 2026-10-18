@@ -20,7 +20,7 @@ I’m a third year Ph.D. student at MIT, in the department of pure mathematics (
 
 I’m broadly interested in the intersection of **PDE, probability, and machine learning**. I’m particularly interested in **reliable AI for science** (e.g. how can we make valid statistical inference using black boxes) and **for math** (e.g. how can we prove existence of solutions to PDEs using black boxes). I'm also lucky to be supported by an [NDSEG fellowship](https://ndseg.org).
 
-I interned three times at Google DeepMind, where I have worked with the wonderful [Adam Fisch](https://people.csail.mit.edu/fisch/), [Been Kim](https://beenkim.github.io/), and [Ray Jiang](https://scholar.google.com/citations?user=BIcE5LMAAAAJ&hl=en).
+I interned three times at Google DeepMind, where I was supervised by the wonderful [Adam Fisch](https://people.csail.mit.edu/fisch/), [Been Kim](https://beenkim.github.io/), and [Ray Jiang](https://scholar.google.com/citations?user=BIcE5LMAAAAJ&hl=en).
 
 During 2023-2024, I was lucky to work with [Stephen Bates](https://stephenbates19.github.io) on statistical inference with black boxes. During my undergraduate work at Princeton, I studied pure mathematics and was very lucky to work with [Ching-Yao Lai](https://icyphysics.stanford.edu). During my masters degree in mathematics (“Part III”) at the University of Cambridge, I worked with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/staff/sofia-villar) on alternative schemes to test experimental treatments in the medical community. Previously, I also interned at Meta Reality Labs.
 
