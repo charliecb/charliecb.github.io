@@ -29,7 +29,7 @@ h1, h2, h3 { letter-spacing: -.025em; }
 #navbar .active > .nav-link { color: var(--global-theme-color); font-weight: 500; }
 a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--global-theme-color); outline-offset: 4px; }
 .publications { margin-top: 0; }
-.publications h2.bibliography {
+.publications h3.bibliography {
   text-align: left; color: var(--global-text-color-light); font-size: 1.15rem;
   letter-spacing: .04em; margin: 2.5rem 0 1rem; padding-top: 1.25rem;
 }
@@ -55,7 +55,7 @@ body { min-height: 100vh; display: flex; flex-direction: column; }
 body > .container { flex: 1 0 auto; width: 100%; }
 footer.sticky-bottom { padding: 1.25rem 0; font-size: .75rem; color: var(--global-text-color-light); }
 
-.publications h2.bibliography { border-top: 0; }
+.publications h3.bibliography { border-top: 0; }
 
 // Match the approved standalone preview on every page and screen size.
 body { font-family: Arial, sans-serif; }
@@ -65,3 +65,8 @@ body { font-family: Arial, sans-serif; }
   #navbar .navbar-nav { flex-direction: row; }
   #navbar .nav-link { padding: .75rem .6rem; }
 }
+
+.contact-line { font-size: .92rem; color: var(--global-text-color-light); }
+.publication-section-title { font-size: 1.4rem; font-weight: 500; margin-bottom: 0; }
+.publications section + section { margin-top: 3.5rem; }
+.publications section > h3.bibliography:first-of-type { margin-top: 1rem; }

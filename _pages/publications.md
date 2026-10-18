@@ -6,9 +6,13 @@ description:
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
 <div class="publications">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
+  <section aria-labelledby="papers-heading">
+    <h2 class="publication-section-title" id="papers-heading">Papers</h2>
+    {% bibliography -f {{ site.scholar.bibliography }} --query @*[website_section=papers] %}
+  </section>
+  <section aria-labelledby="other-work-heading">
+    <h2 class="publication-section-title" id="other-work-heading">Theses and other work</h2>
+    {% bibliography -f {{ site.scholar.bibliography }} --query @*[website_section=other] %}
+  </section>
 </div>

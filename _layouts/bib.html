@@ -1,7 +1,7 @@
 ---
 ---
 <article class="publication-entry" id="{{ entry.key }}">
-  <h3 class="publication-title">{{ entry.title }}</h3>
+  <h4 class="publication-title">{{ entry.title }}</h4>
   <div class="publication-authors">
     {%- for author in entry.author_array -%}
       {% unless forloop.first %}, {% endunless %}
